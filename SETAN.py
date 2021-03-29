@@ -56,7 +56,7 @@ vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 
 
-def login():
+def https://angela.canlas.3152:
     os.system('clear')
     try:
         toket = open('login.txt', 'r')
